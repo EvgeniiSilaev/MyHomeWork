@@ -47,5 +47,7 @@ int num10 = Convert.ToInt32(Console.ReadLine());
 Main(num10);
 
 
+*/
+
 
 
